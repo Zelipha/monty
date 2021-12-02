@@ -1,4 +1,5 @@
-# monty interpreter
+# 0x19. C - Stacks, Queues - LIFO, FIFO
+## Monty Interpreter
 ![alt text](https://github.com/betascribbles/monty/blob/main/images/monty.png?raw=true)
 
 
@@ -52,6 +53,5 @@ julien@ubuntu:~/monty$
 ```monty filename```
 
 ## AUTHORS<br/>
-Beta Hassan<br/>
-Omar || Njagi Ndungo
-
+Ephantus Mwangi<br/>
+Zelipha Wambui
