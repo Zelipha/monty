@@ -64,7 +64,14 @@ void push(stack_t **stack, unsigned int line_cnt);
 void pall(stack_t **stack, unsigned int line_cnt);
 
 
+/* stack utility functions available in linked_list.c */
+stack_t *add_node(stack_t **stack, const int n);
+stack_t *queue_node(stack_t **stack, const int n);
+
 void opcode(stack_t **stack, char *str, unsigned int line_cnt);
+
+
+int is_digit(char *string);
 
 
 
