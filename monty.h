@@ -8,9 +8,7 @@
 #define INSTRUCTIONS              \
 	{                           \
 		{"push", push},       \
-		    {"pall", pall},   \
-		    {"pint", pint},   \
-		    {"pop", pop},     \
+		    {"pall", pall}  \
 		{                     \
 			NULL, NULL      \
 		}                     \
