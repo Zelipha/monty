@@ -59,10 +59,6 @@ typedef struct help
 help global;
 
 /* stack utility functions available in linked_list.c */
-stack_t *add_node(stack_t **stack, const int n);
-stack_t *queue_node(stack_t **stack, const int n);
-void free_stack(stack_t *stack);
-size_t print_stack(const stack_t *stack);
 
 void push(stack_t **stack, unsigned int line_cnt);
 void pall(stack_t **stack, unsigned int line_cnt);
@@ -70,7 +66,6 @@ void pall(stack_t **stack, unsigned int line_cnt);
 
 void opcode(stack_t **stack, char *str, unsigned int line_cnt);
 
-int is_digit(char *string);
-int isnumber(char *str);
+
 
 #endif /* MONTY_H */
