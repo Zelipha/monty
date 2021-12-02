@@ -1,6 +1,5 @@
 # 0x19. C - Stacks, Queues - LIFO, FIFO
 ## Monty Interpreter
-![alt text](https://github.com/betascribbles/monty/blob/main/images/monty.png?raw=true)
 
 
 ## The Monty language
